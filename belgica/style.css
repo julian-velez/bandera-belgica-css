@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 150px;
+}
+
+.belgica-bandera {
+  width: 110px;
+  height: 200px;
+  background-color: #000;
+}
+
+.bandera-2 {
+  width: 110px;
+  height: 200px;
+  background: yellow;
+}
+
+.bandera-3 {
+  width: 110px;
+  height: 200px;
+  background: red;
+}
